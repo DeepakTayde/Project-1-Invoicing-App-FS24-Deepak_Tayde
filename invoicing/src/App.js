@@ -5,7 +5,7 @@ import InvoiceForm from "./components/InvoiceForm/InvoiceForm";
 import InvoiceItems from "./components/InvoiceItems/InvoiceItems";
 import ItemForm from "./components/ItemForm/ItemForm";
 import LoginForm from './components/LoginForm/LoginForm';
-import SIgnUpForm from './SignUpForm/SIgnUpForm';
+import SIgnUpForm from './components/SignUpForm/SIgnUpForm.jsx';
 function App() {
   return (
     <div className="App">
